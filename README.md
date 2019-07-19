@@ -8,6 +8,7 @@ To set up a new computer:
 
 Note: To easily find the startup folder, open the `Run` dialog box (`CTRL+R`) and type:
 
-```
-shell:common startup
+```bash
+# Alternatively, use `shell:common startup`
+shell:startup
 ```
